@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-22T03:03:41Z" name="Default suite" finished-at="2024-04-22T03:04:49Z" duration-ms="68058">
+    <groups>
+    </groups>
+    <test started-at="2024-04-22T03:03:41Z" name="Default test" finished-at="2024-04-22T03:04:49Z" duration-ms="68058">
+      <class name="AutomatedCalculator.CalculatorAutomate">
+        <test-method is-config="true" signature="setup()[pri:0, instance:AutomatedCalculator.CalculatorAutomate@4007f65e]" started-at="2024-04-22T08:33:41Z" name="setup" finished-at="2024-04-22T08:33:42Z" duration-ms="1133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="Clear()[pri:0, instance:AutomatedCalculator.CalculatorAutomate@4007f65e]" started-at="2024-04-22T08:33:42Z" name="Clear" finished-at="2024-04-22T08:33:43Z" duration-ms="429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Clear -->
+        <test-method signature="Addition()[pri:0, instance:AutomatedCalculator.CalculatorAutomate@4007f65e]" started-at="2024-04-22T08:33:43Z" name="Addition" finished-at="2024-04-22T08:33:52Z" duration-ms="9739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addition -->
+        <test-method is-config="true" signature="Clear()[pri:0, instance:AutomatedCalculator.CalculatorAutomate@4007f65e]" started-at="2024-04-22T08:33:52Z" name="Clear" finished-at="2024-04-22T08:33:53Z" duration-ms="406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Clear -->
+        <test-method signature="Combination()[pri:0, instance:AutomatedCalculator.CalculatorAutomate@4007f65e]" started-at="2024-04-22T08:33:53Z" name="Combination" finished-at="2024-04-22T08:34:12Z" duration-ms="19599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Combination -->
+        <test-method is-config="true" signature="Clear()[pri:0, instance:AutomatedCalculator.CalculatorAutomate@4007f65e]" started-at="2024-04-22T08:34:12Z" name="Clear" finished-at="2024-04-22T08:34:13Z" duration-ms="404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Clear -->
+        <test-method signature="Division()[pri:0, instance:AutomatedCalculator.CalculatorAutomate@4007f65e]" started-at="2024-04-22T08:34:13Z" name="Division" finished-at="2024-04-22T08:34:29Z" duration-ms="15777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Division -->
+        <test-method is-config="true" signature="Clear()[pri:0, instance:AutomatedCalculator.CalculatorAutomate@4007f65e]" started-at="2024-04-22T08:34:29Z" name="Clear" finished-at="2024-04-22T08:34:29Z" duration-ms="406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Clear -->
+        <test-method signature="Multiplication()[pri:0, instance:AutomatedCalculator.CalculatorAutomate@4007f65e]" started-at="2024-04-22T08:34:29Z" name="Multiplication" finished-at="2024-04-22T08:34:39Z" duration-ms="9764" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Multiplication -->
+        <test-method is-config="true" signature="Clear()[pri:0, instance:AutomatedCalculator.CalculatorAutomate@4007f65e]" started-at="2024-04-22T08:34:39Z" name="Clear" finished-at="2024-04-22T08:34:39Z" duration-ms="423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Clear -->
+        <test-method signature="Subtraction()[pri:0, instance:AutomatedCalculator.CalculatorAutomate@4007f65e]" started-at="2024-04-22T08:34:39Z" name="Subtraction" finished-at="2024-04-22T08:34:49Z" duration-ms="9796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Subtraction -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:AutomatedCalculator.CalculatorAutomate@4007f65e]" started-at="2024-04-22T08:34:49Z" name="TearDown" finished-at="2024-04-22T08:34:49Z" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- AutomatedCalculator.CalculatorAutomate -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

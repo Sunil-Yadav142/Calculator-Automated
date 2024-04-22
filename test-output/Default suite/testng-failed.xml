@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="AutomatedCalculator.CalculatorAutomate">
+        <methods>
+          <include name="Addition"/>
+          <include name="Multiplication"/>
+          <include name="Subtraction"/>
+          <include name="Clear"/>
+          <include name="TearDown"/>
+          <include name="setup"/>
+          <include name="Combination"/>
+          <include name="Division"/>
+        </methods>
+      </class> <!-- AutomatedCalculator.CalculatorAutomate -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
